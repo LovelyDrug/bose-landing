@@ -1,4 +1,5 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# Bose landing
+1. Bose landing is an interactive web page, where client can choose a needed product and make an order
+2. Technology stack: HTML5, CSS3, BEM, SCSS(SASS)
+3. [Preview](https://lovelydrug.github.io/bose-landing/)
+4. [Layout](https://www.figma.com/file/OMjQNb3hg1LKMV4OwyQ3Ao/BOSE)
